@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @cottard1993
-- 👀 I’m interested in learning python, i have tried to take courses but there is so much inf, im lost on my path on learning 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in learning python, i have tried to take courses but there is so much inf, im lost on my path of learning 
+-
 - 📫 How to reach me jn082630@gmail.com
 
 <!---
